@@ -1,0 +1,8 @@
+.operator {
+  background-color: var(--operator);
+  color: #ffffff;
+}
+
+.btn-ele {
+  padding: var(--l);
+}

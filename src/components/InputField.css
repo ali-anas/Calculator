@@ -1,0 +1,12 @@
+.input {
+  height: 60px;
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  font-weight: bold;
+  font-size: var(--l);
+  padding: var(--l);
+  background-color: rgb(42, 38, 38);
+  color: var(--white);
+}

@@ -1,0 +1,29 @@
+.calculator {
+  margin-top: var(--l);
+}
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: center;
+}
+
+.clear-btn {
+  padding: 0px;
+  width: 75%;
+  border: 1px solid var(--black);
+  justify-content: center;
+  cursor: pointer;
+}
+
+.btn {
+  width: 25%;
+  padding: 0px;
+  border: 1px solid var(--black);
+  justify-content: center;
+  border-radius: 0px;
+}
+
+.err-msg {
+  margin: var(--m) 0px;
+}

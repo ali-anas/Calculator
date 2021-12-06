@@ -51,7 +51,7 @@ class Calculator extends Component {
             <ClearButton handleClear={this.clearInput}>Clear</ClearButton>
           </div>
           <div className="btn">
-            <Button handleClick={this.addToInput}>&divide;</Button>
+            <Button handleClick={this.addToInput}>/</Button>
           </div>
         </div>
         <div className="row">

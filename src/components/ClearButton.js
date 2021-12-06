@@ -1,5 +1,6 @@
 import React from "react";
-import "./ClearButton.css";
+
+import "../styles/ClearButton.css";
 
 const ClearButton = (props) => {
   return (

@@ -2,8 +2,9 @@ import React, { Component } from "react";
 import Button from "./Button";
 import InputField from "./InputField";
 import ClearButton from "./ClearButton";
-import "./Calculator.css";
 import * as math from "mathjs";
+
+import "../styles/Calculator.css";
 
 class Calculator extends Component {
   constructor(props) {

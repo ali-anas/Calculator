@@ -1,4 +1,6 @@
-This project uses requires npm package to be installed.\
+## Requirements
+
+This project requires npm package to be installed.\
 To install NodeJS & npm follow the guideline provided [here](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 
 ## Available Scripts

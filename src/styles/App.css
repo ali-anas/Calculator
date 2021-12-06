@@ -2,7 +2,8 @@
   text-align: center;
   align-items: center;
   margin: 0px auto;
-  width: 40%;
+  width: 60%;
+  max-width: 450px;
 }
 
 .keypad {
